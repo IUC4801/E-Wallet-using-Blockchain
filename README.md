@@ -17,7 +17,7 @@ Smart Pocket is a blockchain based E-Wallet application which is used to easily 
 
 ## Tech Stack
 
-- `Frontend:` Reactjs, 
+- `Frontend:` Reactjs
 - `Backend:` Web3js, Solidity, Openzepplin
 
 <!-- GETTING STARTED -->
@@ -45,7 +45,7 @@ Nodejs should be installed in the device. Along with Nodejs, any code editor, Tr
 ```bash
   npm i (to install all the dependencies)
   npm start
-  Open Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ```
 ## Machine configuration
 - `OS:` Windows 10 64 bit
