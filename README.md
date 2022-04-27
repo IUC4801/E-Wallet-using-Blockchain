@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Smart Pocket is a blockchain based E-Wallet application which is used to easily transfer cryptocurrency from one account to another. Smart Pocket transfers DAI coins from one account to another at a minimum gas fee with the help of metamask. Log history of the previous transactions are shown in the UI. It can be easily used by any organizations for safe transfer of coins by using etherum network. Blockchain has been used to keep a track of the accounts where coins has been transfered. In frontend, Reactjs has been used. In backend, web3js has been used. Solidity has been used for writing the smart contract. Openzepplin has been used for minting fake DAI coins. Metamask and ganache have been used for testing purposes. Log history is shown in the UI. Ethereum block is used for storing the logs.
+Smart Pocket is a blockchain based E-Wallet application which is used to easily transfer cryptocurrency from one account to another. Smart Pocket transfers DAI coins from one account to another at a minimum gas fee with the help of metamask. Log history of the previous transactions are shown in the UI. It can be easily used by any organizations for safe transfer of coins by using etherum network. 
 
 ## Features
 
@@ -59,4 +59,9 @@ Nodejs should be installed in the device. Along with Nodejs, any code editor, Tr
 * [Openzepplin](https://openzeppelin.com/)
 
 ## Demo
+![Github demo (1)](https://user-images.githubusercontent.com/61285140/165579040-a655b0a8-55f3-49d4-a525-40bc8d15ca8d.gif)
+
+
+
+
 
